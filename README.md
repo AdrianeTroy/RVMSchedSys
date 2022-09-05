@@ -3,6 +3,7 @@ This project is a web-based scheduling system designed for Ramon V. Mitra Sports
 
 # Samples (Users/Admin Desktop and Mobile)
 Here are sample pictures of user web and mobile front-end using Bootstrap:
+
 Home:
 ![Home](https://user-images.githubusercontent.com/72486298/188334561-6c8558e6-9069-4ac3-8e01-b7214d7eb3d5.jpg)
 
